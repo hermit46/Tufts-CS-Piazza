@@ -1,8 +1,11 @@
 A Web App that collates all job opportunities posted on the Tufts CS Piazza Board!
 
 Technologies used:
+- AirTable, Zapier, Getform
+- HTML, CSS
+- AWS EC2
 
-Time Taken:
+Time Taken: 8 hours
 
 Team Members:
 Yong Quan Tan
