@@ -12,10 +12,10 @@ Time Taken: 8 hours
 
 ## Team Members:
 
-Yong Quan Tan
-Ivian Zhang
-Ramona Xi
-Caleb Ledi
+- Yong Quan Tan
+- Ivian Zhang
+- Ramona Xi
+- Caleb Ledi
 
 ## Features that work:
 
@@ -32,4 +32,4 @@ Caleb Ledi
 
 - Adding more entries & testing MVP with other students
 
-Web App is accessible currently at: 3.145.163.157
+Web App is currently accessible [here] (3.145.163.157)
