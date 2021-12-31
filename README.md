@@ -1,7 +1,7 @@
 > A Web App that collates all job opportunities posted on the Tufts CS Piazza Board!
 
 Web App is currently accessible [here]
-(http://3.145.163.157).
+(http://3.145.163.157/).
 
 ## Technologies used:
 
