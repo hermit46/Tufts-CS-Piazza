@@ -14,7 +14,7 @@ Time Taken: 8 hours
 
 ## Team Members:
 
-- Yong Quan Tan
+- Yong Quan Tan(https://github.com/hermit46)
 - Ivian Zhang
 - Ramona Xi
 - Caleb Ledi
