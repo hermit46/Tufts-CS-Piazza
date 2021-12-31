@@ -10,7 +10,7 @@
 
 Thanks to @ajlkn for their Forty HTML5 Template!
 
-Time Taken: 8 hours
+Time Taken: 
 
 ## Team Members:
 
