@@ -1,5 +1,8 @@
 > A Web App that collates all job opportunities posted on the Tufts CS Piazza Board!
 
+Web App is currently accessible [here]
+(3.145.163.157).
+
 ## Technologies used:
 
 - AirTable, Zapier, Getform
@@ -31,5 +34,3 @@ Time Taken: 8 hours
 ## Testing to work on:
 
 - Adding more entries & testing MVP with other students
-
-Web App is currently accessible [here] (3.145.163.157)
