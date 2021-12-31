@@ -14,10 +14,10 @@ Time Taken: 8 hours
 
 ## Team Members:
 
-- Yong Quan Tan(https://github.com/hermit46)
-- Ivian Zhang
-- Ramona Xi
-- Caleb Ledi
+- [Yong Quan Tan](https://github.com/hermit46)
+- [Ivian Zhang](https://github.com/yixian-yixian/)
+- [Ramona Xi](https://github.com/loochimon)
+- [Caleb Ledi](https://github.com/cledi01)
 
 ## Features that work:
 
