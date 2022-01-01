@@ -4,13 +4,13 @@
 
 ## Technologies used:
 
-- AirTable, Zapier, Getform
-- HTML, CSS
-- AWS EC2
+- Backend: AirTable, Zapier, Getform
+- Frontend: HTML, CSS
+- Deployment: AWS EC2
 
 Thanks to @ajlkn for their Forty HTML5 Template!
 
-Time Taken: 
+Time Taken:
 
 ## Team Members:
 
@@ -29,7 +29,6 @@ Time Taken:
 
 - Improving security of web app (https)
 - Improving design
-- Writing for Jobs Board page & About Us page
 - Weekly email reminders(?)
 
 ## Testing to work on:
